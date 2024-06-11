@@ -1,0 +1,106 @@
+Instalar Python (si aún no lo tienes instalado):
+
+sql
+
+sudo apt update
+sudo apt install python3
+
+Instalar pip (si aún no lo tienes instalado):
+
+sudo apt install python3-pip
+
+Instalar la librería pandas y matplotlib usando pip:
+
+pip install pandas matplotlib
+
+Crear un archivo CSV llamado datos.csv y copiar los datos proporcionados en tu mensaje anterior en él.
+
+Crear un nuevo archivo Python llamado graficas.py y agregar el siguiente código:
+
+python
+
+
+Guardar y cerrar el archivo graficas.py.
+
+Ejecutar el script graficas.py en la consola:
+
+python graficas.py
+
+
+nano datos.csv
+
+Esto abrirá el editor nano y te permitirá copiar y pegar los datos del archivo CSV.
+
+Guardar y salir de nano:
+
+    Presiona Ctrl + O para guardar los cambios.
+    Presiona Enter para confirmar el nombre del archivo.
+    Presiona Ctrl + X para salir de nano.
+
+Verificar que el archivo datos.csv se haya creado correctamente:
+
+bash
+
+cat datos.csv
+
+Este comando imprimirá el contenido del archivo en la consola.
+
+Crear y editar el archivo graficas.py con nano:
+
+nano graficas.py
+
+Copia y pega el código proporcionado para generar las gráficas en este archivo.
+
+Guardar y salir de nano (igual que en el paso 2).
+
+Verificar que el archivo graficas.py se haya creado correctamente:
+
+bash
+
+cat graficas.py
+
+Esto imprimirá el contenido del archivo en la consola.
+
+Ejecutar el script graficas.py:
+
+python graficas.py
+
+nano datos.csv
+
+Esto abrirá el editor nano y te permitirá copiar y pegar los datos del archivo CSV.
+
+Guardar y salir de nano:
+
+    Presiona Ctrl + O para guardar los cambios.
+    Presiona Enter para confirmar el nombre del archivo.
+    Presiona Ctrl + X para salir de nano.
+
+Verificar que el archivo datos.csv se haya creado correctamente:
+
+bash
+
+cat datos.csv
+
+Este comando imprimirá el contenido del archivo en la consola.
+
+Crear y editar el archivo graficas.py con nano:
+
+nano graficas.py
+
+Copia y pega el código proporcionado para generar las gráficas en este archivo.
+
+Guardar y salir de nano (igual que en el paso 2).
+
+Verificar que el archivo graficas.py se haya creado correctamente:
+
+bash
+
+cat graficas.py
+
+Esto imprimirá el contenido del archivo en la consola.
+
+Ejecutar el script graficas.py:
+
+python graficas.py
+
+
